@@ -7,4 +7,10 @@ apt-get install yum
 apt-get install zbar-tools
 pip install numpy
 pip install zbar-py
+apt-get install libzbar0 libzbar-dev
+```
+
+Ejemplo
+```
+zbarimg cod.jpg
 ```
